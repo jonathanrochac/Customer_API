@@ -46,7 +46,7 @@ dotnet run
 
 4. Acesse a API no navegador ou através de ferramentas como Postman em http://localhost:5000/api/customers.
 
-# Testes
+## Testes
 Os testes da API estão localizados na pasta CustomerApi.Tests. Para executar os testes, siga os passos abaixo:
 
 Navegue até a pasta de testes:
